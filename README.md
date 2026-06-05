@@ -1,17 +1,40 @@
-# flutter_application_1
+# Netflix Clone 🎬
 
-A new Flutter project.
+React + Vite use chesi build chesina Netflix UI Clone project.
 
-## Getting Started
+## 🚀 Live Demo
+**[Click chesi chudu → https://my-react-app-xxx.vercel.app](https://my-react-app-xxx.vercel.app)**
 
-This project is a starting point for a Flutter application.
+> Nee Vercel link tho idi replace cheyyi
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- 🔍 Real-time movie search
+- 🎥 Dynamic banner with movie details  
+- 📱 Horizontal scrolling movie rows
+- ▶️ YouTube trailer integration - Play button nokkithe trailer open aipotadi
+- 🖼️ Movie posters with hover effects
+- 💻 Fully responsive design
+- 🌙 Netflix dark theme
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+- **React 18** - UI library
+- **Vite** - Build tool
+- **CSS3** - Styling with Flexbox
+- **Vercel** - Deployment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+Nee project screenshot ikkada add cheyyochu later.
+
+## 💻 Local Setup
+```bash
+# Clone cheyyi
+git clone https://github.com/gudipallirupa-tech/my_react_app.git
+
+# Folder loki vellu
+cd my_react_app
+
+# Dependencies install cheyyi
+npm install
+
+# Dev server start cheyyi
+npm run dev
